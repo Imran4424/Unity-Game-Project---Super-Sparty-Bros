@@ -22,10 +22,10 @@ MonoBehaviour:
     y: 30
     width: 1366
     height: 675
-  m_MinSize: {x: 911, y: 442}
-  m_MaxSize: {x: 22006, y: 10021}
+  m_MinSize: {x: 917, y: 442}
+  m_MaxSize: {x: 22012, y: 10021}
   vertical: 0
-  controlID: 108
+  controlID: 132
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -125,7 +125,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 33
+  controlID: 133
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -386,23 +386,23 @@ MonoBehaviour:
     height: 654
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: be880000
-    m_LastClickedID: 35006
-    m_ExpandedIDs: 6aadffff4eaeffff50afffff58afffff5cafffff6aafffff7aafffffbab4ffff9eb5ffffa0b6ffffa8b6ffffacb6ffffbab6ffffcab6ffff8ec3ffff72c4ffff74c5ffff7cc5ffff80c5ffff8ec5ffff9ec5ffffe0caffffc4cbffffc6ccffffceccffffd2ccffffe0ccfffff0ccffff3eeeffff22efffff24f0ffff2cf0ffff30f0ffff3ef0ffff4ef0ffffcef3ffffb2f4ffffb4f5ffffbcf5ffffc0f5ffffcef5ffffdef5ffffd2fbffff00000000204400002a58000032660000367a0000348a0000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: d2fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: MobileJoystick
-      m_OriginalName: MobileJoystick
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 31544
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 9}
     m_SearchString: 
@@ -509,7 +509,7 @@ MonoBehaviour:
       m_ResourceFile: 
   m_AssetTreeState:
     scrollPos: {x: 0, y: 136}
-    m_SelectedIDs: be880000
+    m_SelectedIDs: 
     m_LastClickedID: 0
     m_ExpandedIDs: 00000000162600001a2600006226000082260000be260000da26000032270000602700006427000070270000342800005428000068280000882800009a280000a8280000d0280000d22800001a2900005429000056290000022d0000
     m_RenameOverlay:
@@ -536,8 +536,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: be880000
-    m_LastClickedInstanceID: 35006
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
